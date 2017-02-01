@@ -112,6 +112,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
  - [The Amp Hour](http://www.theamphour.com/) - Off-the-cuff chat about electronics with Chris Gammel and Dave Jones (EEVBlog), often with guests
  - [Embedded FM](http://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
  - [Sparkgap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
+ - [Macrofab Engineering Podcast](https://macrofab.com/blog/podcast/) - Parker Dillmann and Stephen Kraig works at the electronics fab house Macrofab, and gives insight into electronics manufacturing, design and personal projects.
 
 
 ## Videos
